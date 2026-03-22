@@ -1,0 +1,7 @@
+if(EMSCRIPTEN)
+  add_subdirectory(web)
+else()
+  add_subdirectory(bunny)
+  add_subdirectory(cube)
+  add_subdirectory(f22)
+endif()
