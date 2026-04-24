@@ -1,9 +1,9 @@
 #pragma once
 
-// Core
+// Core inst
 #include "core/constants.hpp"
 
-// Graphics
+// Graphics libs
 #include "graphics/color.hpp"
 #include "graphics/display.hpp"
 #include "graphics/frame_buffer.hpp"
